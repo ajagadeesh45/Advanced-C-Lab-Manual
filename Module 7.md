@@ -142,7 +142,7 @@ int main()
 
 
 
-Output:
+# Output:
 
 <img width="953" height="309" alt="Screenshot 2025-09-10 161755" src="https://github.com/user-attachments/assets/022de1cc-0652-4d44-a1d4-8e987c2180a7" />
 
@@ -283,5 +283,5 @@ Output:
 
 
 
-Result:
-Thus, the program is verified successfully
+# Result:
+ Thus, the program is verified successfully
